@@ -1,0 +1,13 @@
+C:\Users\hugoy\source\repos\area\bin\Debug\netcoreapp3.1\area.exe
+C:\Users\hugoy\source\repos\area\bin\Debug\netcoreapp3.1\area.deps.json
+C:\Users\hugoy\source\repos\area\bin\Debug\netcoreapp3.1\area.runtimeconfig.json
+C:\Users\hugoy\source\repos\area\bin\Debug\netcoreapp3.1\area.runtimeconfig.dev.json
+C:\Users\hugoy\source\repos\area\bin\Debug\netcoreapp3.1\area.dll
+C:\Users\hugoy\source\repos\area\bin\Debug\netcoreapp3.1\area.pdb
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.csprojAssemblyReference.cache
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.AssemblyInfoInputs.cache
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.AssemblyInfo.cs
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.csproj.CoreCompileInputs.cache
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.dll
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.pdb
+C:\Users\hugoy\source\repos\area\obj\Debug\netcoreapp3.1\area.genruntimeconfig.cache
